@@ -92,4 +92,4 @@ Le programme enregistrera le résultat dans `mon_article.md`.
 
 ## Licence
 
-Ce projet est fourni sans licence spécifique dans le dépôt actuel. Si vous souhaitez le distribuer ou l'utiliser en production, ajoutez une licence adaptée selon votre usage.
+MIT
